@@ -1,0 +1,123 @@
+body {
+    background-color: #F9F8FF !important;
+    font-family: 'Roboto', sans-serif;
+}
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+a{
+    color: #675ae8;
+    text-decoration: none;
+    font-weight: 500;
+}
+i{
+    color: #675ae8;
+}
+/* Classes */
+.py{
+    background-color: #e2e7f1;
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.search-container:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.search-container{
+    transition: all .2s ease-in-out;
+}
+.bg-brand-light {
+    background-color: white;
+}
+.rounded{
+    border-radius: .25rem;
+}
+.p-3 {
+    padding: 1rem!important;
+}
+.border{
+    border: 1px solid;
+}
+.search-input{
+    border: none;
+}
+.blog-title{
+    margin-top: 1rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #675AE8;
+}
+.card-style{
+    background: #F5F5F5;
+    box-shadow: 0px 4px 10px rgba(88, 88, 88, 0.1);
+    border-radius: 5px;
+    border: none;
+}
+.feature{
+    font-style: normal;
+    font-weight: 550;
+    font-size: 17px;
+    line-height: 18px;
+    color: #675AE8;
+    margin: 1rem;
+    text-transform: uppercase;
+}
+.thumbnail{
+    margin-left: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+.feature-category{
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #675AE8;
+    margin: 0;
+}
+.feature-title{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #787878;
+    margin-top: 5px;
+    line-height: normal;
+}
+.join{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #787878;
+}
+.number{
+    color: #675AE8;
+}
+.free{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 14px;
+
+    color: #787878;
+}
+.border-purple{
+    border: 2px solid #675AE8;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.btn-primary{
+    background-color: #675AE8 !important;
+    color: white;
+    width: 302px;
+    height: 53px;
+    font-size: 20px !important;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: #4639CE !important;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
