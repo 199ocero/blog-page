@@ -40,67 +40,10 @@ i{
 .search-input{
     border: none;
 }
-.blog-title{
-    margin-top: 1rem;
-    text-transform: uppercase;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 23px;
-    color: #675AE8;
-}
-.card-style{
-    background: #F5F5F5;
-    box-shadow: 0px 4px 10px rgba(88, 88, 88, 0.1);
-    border-radius: 5px;
-    border: none;
-}
-.feature{
-    font-style: normal;
-    font-weight: 550;
-    font-size: 17px;
-    line-height: 18px;
-    color: #675AE8;
-    margin: 1rem;
-    text-transform: uppercase;
-}
-.thumbnail{
-    margin-left: 1rem;
-    border: none;
-    border-radius: 10px;
-}
-.feature-category{
-    text-transform: uppercase;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    line-height: 18px;
-    /* identical to box height */
-    color: #675AE8;
-    margin: 0;
-}
-.feature-title{
-    font-style: normal;
-    font-weight: normal;
-    font-size: 13px;
-    color: #787878;
-    margin-top: 5px;
-    line-height: normal;
-}
-.join{
-    font-style: normal;
-    font-weight: 600;
-    font-size: 25px;
-    line-height: 29px;
-    color: #787878;
-}
-.number{
-    color: #675AE8;
-}
-.free{
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
-    line-height: 14px;
-
-    color: #787878;
+.border-radient-brand{
+    outline: none;
+    border: 2px solid #9331b9;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #f3f2ff;
 }
