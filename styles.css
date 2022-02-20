@@ -47,3 +47,14 @@ i{
     padding: 10px;
     background-color: #f3f2ff;
 }
+.entry-thumb{
+    margin-bottom: 15px;
+    position: relative;
+    display: block;
+    overflow: hidden;
+    max-height: 300px;
+}
+.blog-card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    transition: all .3s ease-in-out !important;
+}
