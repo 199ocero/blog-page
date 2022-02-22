@@ -58,3 +58,10 @@ i{
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
     transition: all .3s ease-in-out !important;
 }
+.automation-email::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgb(255, 255, 255);
+    opacity: 1; /* Firefox */
+}
+.bg-report{
+    background-color: #FFC124;
+}
